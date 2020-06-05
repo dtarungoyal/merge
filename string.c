@@ -10,7 +10,7 @@ int main(void)
 {
  size_t i;
  char *s[] = {
- "Git tutorials",
+ "Devops Tutorial",
  "Tutorials Point"
  };
  for (i = 0; i < 2; ++i)
